@@ -1,0 +1,135 @@
+[
+  {
+    "Name": "Dân Làng",
+    "Type": "Dân",
+    "Description": "Dân làng cùng với những người có chức năng tìm cách lập luận và suy đoán ra đâu là Sói đang ẩn mình dưới lớp người.",
+    "File": "/caches/DanLang.png",
+    "ImgUrl": "https://static.thuthuatchoi.com/media/photos/shares/Boardgame/masoi/Ma_soi_Ultimate/villager.png"
+  },
+  {
+    "Name": "Tiên Tri",
+    "Type": "Dân",
+    "Description": "Mỗi đêm, Tiên Tri sẽ chọn 1 người chơi để đoán phe của họ, giúp xác định ai là Ma Sói hoặc Dân.",
+    "File": "/caches/TienTri.png",
+    "ImgUrl": "https://static.thuthuatchoi.com/media/photos/shares/Boardgame/masoi/Ma_soi_Ultimate/seer.png"
+  },
+  {
+    "Name": "Bảo Vệ",
+    "Type": "Dân",
+    "Description": "Mỗi đêm, Bảo Vệ chọn một người để bảo vệ. Nếu người đó bị Ma Sói cắn, họ sẽ không chết vào sáng hôm sau. Không thể bảo vệ cùng một người hai đêm liên tiếp.",
+    "File": "/caches/BaoVe.png",
+    "ImgUrl": "https://static.thuthuatchoi.com/media/photos/shares/Boardgame/masoi/Ma_soi_Ultimate/bodyguard.png"
+  },
+  {
+    "Name": "Thợ Săn",
+    "Type": "Dân",
+    "Description": "Khi bị Ma Sói cắn chết hoặc bị treo cổ, Thợ Săn có thể chọn một người để bắn chết cùng. Nếu người được chọn đã chết, Thợ Săn không chết theo.",
+    "File": "/caches/ThoSan.png",
+    "ImgUrl": "https://static.thuthuatchoi.com/media/photos/shares/Boardgame/masoi/Ma_soi_Ultimate/hunter.png"
+  },
+  {
+    "Name": "Phù Thủy",
+    "Type": "Dân",
+    "Description": "Sở hữu hai lọ thuốc: một lọ cứu người và một lọ giết người. Mỗi đêm, Phù Thủy được biết ai bị Ma Sói cắn và có thể chọn cứu hoặc không. Có thể dùng lọ thuốc độc để giết một người nghi là Ma Sói. Mỗi lọ chỉ dùng được một lần.",
+    "File": "/caches/PhuThuy.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/PhuThuy.png"
+  },
+  {
+    "Name": "Cupid",
+    "Type": "Dân",
+    "Description": "Đầu game, Cupid chọn hai người để ghép đôi. Nếu một người chết, người kia cũng chết. Nếu hai người thuộc hai phe khác nhau, họ trở thành phe thứ ba với mục tiêu là hai người sống sót cuối cùng.",
+    "File": "/caches/Cupid.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/Cupid.png"
+  },
+  {
+    "Name": "Già Làng",
+    "Type": "Dân",
+    "Description": "Có hai mạng khi bị Ma Sói cắn. Tuy nhiên, nếu bị treo cổ, bị Thợ Săn bắn, hoặc bị Phù Thủy giết, Già Làng chết ngay lập tức. Khi Già Làng chết, các vai đặc biệt (trừ Thợ Săn) mất chức năng.",
+    "File": "/caches/GiaLang.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/GiaLang.png"
+  },
+  {
+    "Name": "Cô Bé",
+    "Type": "Dân",
+    "Description": "Từ đêm thứ hai, Cô Bé có thể nhìn thấy danh tính của Ma Sói khi họ được gọi dậy. Phải cẩn thận để không bị Ma Sói phát hiện, nếu không sẽ bị giết ngay.",
+    "File": "/caches/CoBe.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/CoBe.png"
+  },
+  {
+    "Name": "Cảnh Sát Trưởng",
+    "Type": "Dân",
+    "Description": "Được chọn qua bỏ phiếu. Phiếu bầu của Cảnh Sát Trưởng tính gấp đôi khi treo cổ. Khi chết, Cảnh Sát Trưởng có thể chuyển quyền cho người khác.",
+    "File": "/caches/CanhSatTruong.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/CanhSatTruong.png"
+  },
+  {
+    "Name": "Thị Trưởng",
+    "Type": "Dân",
+    "Description": "Phiếu bầu của Thị Trưởng khi treo cổ được tính gấp đôi. Vai trò này giúp tăng trọng lượng phiếu bầu trong các cuộc thảo luận.",
+    "File": "/caches/ThiTruong.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/ThiTruong.png"
+  },
+  {
+    "Name": "Giả Tiên Tri",
+    "Type": "Dân",
+    "Description": "Có thể giả vờ xem vai trò của một người chơi mỗi đêm, nhưng không nhận được thông tin thật. Dùng để đánh lừa Ma Sói hoặc Dân làng.",
+    "File": "/caches/GiaTienTri.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/GiaTienTri.png"
+  },
+  {
+    "Name": "Sói Thường",
+    "Type": "Ma Sói",
+    "Description": "Mỗi đêm, Sói Thường cùng đồng đội chọn một người chơi để giết. Làm việc cùng nhau để loại bỏ Dân làng.",
+    "File": "/caches/SoiThuong.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/SoiThuong.png"
+  },
+  {
+    "Name": "Sói Con",
+    "Type": "Ma Sói",
+    "Description": "Tương tự Sói Thường, nhưng khi Sói Con chết, đêm tiếp theo Ma Sói được cắn hai người thay vì một.",
+    "File": "/caches/SoiCon.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/SoiCon.png"
+  },
+  {
+    "Name": "Sói Nguyên Thủy",
+    "Type": "Ma Sói",
+    "Description": "Miễn nhiễm với thuốc độc của Phù Thủy. Làm việc cùng đồng đội Ma Sói để giết Dân làng mỗi đêm.",
+    "File": "/caches/SoiNguyenThuy.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/SoiNguyenThuy.png"
+  },
+  {
+    "Name": "Sói Trùm",
+    "Type": "Ma Sói",
+    "Description": "Có khả năng tăng cơ hội giết thêm một người trong đêm (tùy thuộc vào cơ chế game). Là một Ma Sói mạnh mẽ trong phe Sói.",
+    "File": "/caches/SoiTrum.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/SoiTrum.png"
+  },
+  {
+    "Name": "Bạch Sói",
+    "Type": "Ma Sói",
+    "Description": "Có thể chọn giết một đồng đội Ma Sói khác vào một đêm duy nhất để giảm số lượng Sói, nhằm đánh lừa Dân làng hoặc phục vụ chiến thuật.",
+    "File": "/caches/BachSoi.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/BachSoi.png"
+  },
+  {
+    "Name": "Sói Hóa Sói",
+    "Type": "Ma Sói",
+    "Description": "Có thể chọn một người chơi (không phải Ma Sói) để biến thành Ma Sói một lần duy nhất trong game. Người được biến sẽ gia nhập phe Ma Sói.",
+    "File": "/caches/SoiHoaSoi.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/SoiHoaSoi.png"
+  },
+  {
+    "Name": "Kẻ Báo Thù",
+    "Type": "Dân",
+    "Description": "Chọn một người chơi để báo thù. Nếu Kẻ Báo Thù chết, người được chọn sẽ chết cùng. Có thể thay đổi mục tiêu mỗi đêm.",
+    "File": "/caches/KeBaoThu.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/KeBaoThu.png"
+  },
+  {
+    "Name": "Người Hóa Sói",
+    "Type": "Dân",
+    "Description": "Ban đầu thuộc phe Dân, nhưng nếu bị Sói Hóa Sói biến đổi, sẽ trở thành Ma Sói và gia nhập phe Sói.",
+    "File": "/caches/NguoiHoaSoi.png",
+    "ImgUrl": "https://manhkhac.github.io/data/img/masoi/NguoiHoaSoi.png"
+  }
+]
